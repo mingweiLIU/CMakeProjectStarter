@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "D:\\Apps\\Anaconda3\\Scripts\\activate.bat D:\\Apps\\Anaconda3 & conda activate atom"]
+}
