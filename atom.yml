@@ -1,0 +1,11 @@
+name: atom
+channels:
+  - conda-forge
+  - saedrna 
+dependencies:
+  - pcl=1.9.1
+  - gdal=3.0.2
+  - eigen=3.3.7
+  - assimp=4.1.0
+  - qt=5.12.5
+  - openscenegraph=3.4.1
